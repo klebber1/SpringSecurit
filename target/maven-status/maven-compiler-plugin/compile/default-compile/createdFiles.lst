@@ -1,0 +1,5 @@
+com/example/trabalhopoo/controller/LoginController.class
+com/example/trabalhopoo/controller/AdminController.class
+com/example/trabalhopoo/config/SecurityConfig.class
+com/example/trabalhopoo/controller/UserController.class
+com/example/trabalhopoo/TrabalhoPooApplication.class

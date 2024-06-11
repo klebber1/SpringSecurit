@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Painel do Administrador</title>
+    <link rel="stylesheet" th:href="@{/CSS/stylesAdm.css}">
+</head>
+<body>
+    <div class="admin-container">
+        <header>
+            <div class="logo">
+                <img th:src="@{/images/logo2.png}" alt="Logotipo">
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#">Início</a></li>
+                    <li><a href="#">Usuários</a></li>
+                    <li><a href="#">Configurações</a></li>
+                    <li><a href="#">Relatórios</a></li>
+                    <li><a href="#">Sair</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <h1>Olá, você é um administrador</h1>
+            <section>
+                <h2>Gerenciamento de Usuários</h2>
+                <p>Aqui você pode adicionar, editar ou remover usuários.</p>
+            </section>
+            <section>
+                <h2>Configurações</h2>
+                <p>Ajuste as configurações do sistema e preferências.</p>
+            </section>
+            <section>
+                <h2>Relatórios</h2>
+                <p>Visualize e gere relatórios de desempenho e atividade.</p>
+            </section>
+        </main>
+    </div>
+</body>
+</html>

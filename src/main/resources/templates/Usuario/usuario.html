@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Painel do Usuário</title>
+    <link rel="stylesheet" th:href="@{/CSS/stylesUser.css}">
+</head>
+<body>
+    <div class="user-container">
+        <header>
+            <div class="logo">
+                <img th:src="@{/images/logo3.png}" alt="Logotipo">
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#">Início</a></li>
+                    <li><a href="#">Perfil</a></li>
+                    <li><a href="#">Configurações</a></li>
+                    <li><a href="#">Ajuda</a></li>
+                    <li><a href="#">Sair</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <h1>Olá, você é um usuário padrão!</h1>
+            <section>
+                <h2>Perfil</h2>
+                <p>Veja e edite suas informações pessoais.</p>
+            </section>
+            <section>
+                <h2>Configurações</h2>
+                <p>Ajuste suas preferências e configurações da conta.</p>
+            </section>
+            <section>
+                <h2>Ajuda</h2>
+                <p>Encontre respostas para suas perguntas e entre em contato com o suporte.</p>
+            </section>
+        </main>
+    </div>
+</body>
+</html>
+
