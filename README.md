@@ -28,3 +28,5 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo `LICENSE.md` p
 ## Autor
 - JVitorFreitas
 - klebber1
+- RicardoMfaria
+- 
