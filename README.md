@@ -16,7 +16,7 @@ O projeto está organizado da seguinte maneira:
 - `pom.xml`: Arquivo de configuração do Maven com as dependências e plugins do projeto.
 
 ## Documentação
-
+Para acessar a documentaçaõ executar o arquivo `index.hltml`, diretório do arquivo index.html `target/site/apidocs/index.html`
 
 ## Tutorial
 Veja o arquivo `Tutorial.md`
