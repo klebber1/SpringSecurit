@@ -1,5 +1,4 @@
-######################################  Tutorial ###########################################################
-
+                                           ## TUTORIAL 
 ## Baixar o Projeto:
 
 Clique em “Code” na main page do projeto e selecione “Download ZIP”.
