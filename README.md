@@ -19,7 +19,7 @@ O projeto está organizado da seguinte maneira:
 Para acessar a documentaçaõ executar o arquivo `index.hltml`, diretório do arquivo index.html `target/site/apidocs/index.html`
 
 ## Tutorial
-Veja o arquivo `Tutorial.md`
+Veja o arquivo `TUTORIAL.md`
 
 ## Contribuições
 Contribuições são sempre bem-vindas! Para contribuir, por favor, crie um fork do repositório, faça suas alterações e submeta um pull request.
