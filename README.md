@@ -15,6 +15,7 @@ O projeto está organizado da seguinte maneira:
 - `HELP.md`: Documentação auxiliar para o projeto.
 - `mvnw` e `mvnw.cmd`: Scripts Maven wrapper para sistemas Unix e Windows, respectivamente.
 - `pom.xml`: Arquivo de configuração do Maven com as dependências e plugins do projeto.
+- `Diagramas`: Contém os diagramas de classe, sequência e uso.
 
 ## Documentação
 Para acessar a documentaçaõ:
