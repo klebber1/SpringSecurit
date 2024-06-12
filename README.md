@@ -15,9 +15,11 @@ O projeto está organizado da seguinte maneira:
 - `mvnw` e `mvnw.cmd`: Scripts Maven wrapper para sistemas Unix e Windows, respectivamente.
 - `pom.xml`: Arquivo de configuração do Maven com as dependências e plugins do projeto.
 
-## Como Usar
-Para utilizar este projeto, siga os passos abaixo:
+## Documentação
 
+
+## Tutorial
+Veja o arquivo `Tutorial.md`
 
 ## Contribuições
 Contribuições são sempre bem-vindas! Para contribuir, por favor, crie um fork do repositório, faça suas alterações e submeta um pull request.
@@ -29,4 +31,5 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo `LICENSE.md` p
 - JVitorFreitas
 - klebber1
 - RicardoMfaria
-- 
+- Gulherme Naats
+- Vitor 
