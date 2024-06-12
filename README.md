@@ -31,5 +31,5 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo `LICENSE.md` p
 - JVitorFreitas
 - klebber1
 - RicardoMfaria
-- Gulherme Naats
+- Guilherme Krygher Naatz
 - Vitor 
