@@ -6,6 +6,7 @@
 
 ## Sobre o Projeto
 Este repositório contém o projeto de Programação Orientada a Objetos (POO) desenvolvido para a Fatec. O foco principal deste trabalho é a implementação do Spring Security para adicionar uma camada de segurança robusta à aplicação.
+O projeto é uma aplicação web tradicional baseada no padrão MVC, com renderização de páginas HTML usando Thymeleaf. 
 
 ## Estrutura do Projeto
 O projeto está organizado da seguinte maneira:
