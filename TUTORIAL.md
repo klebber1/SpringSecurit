@@ -17,4 +17,4 @@ Execute os comandos específicos do projeto para compilar e executar (por exempl
 
 ## Acessar a Aplicação:
 
-Após a execução bem-sucedida, acesse a aplicação no navegador `http://localhost:8080`
+Após a execução bem-sucedida, acesse a aplicação no navegador `http://localhost:8080/login`
