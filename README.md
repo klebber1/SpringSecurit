@@ -28,7 +28,7 @@ Contribuições são sempre bem-vindas! Para contribuir, por favor, crie um fork
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo `LICENSE.md` para detalhes.
 
-## Autor
+## Autores
 - JVitorFreitas
 - klebber1
 - RicardoMfaria
