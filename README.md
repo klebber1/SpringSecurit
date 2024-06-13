@@ -22,7 +22,7 @@ Para acessar a documentaçaõ:
 executar o arquivo `index.hltml` o diretório do arquivo index.html é `target/site/apidocs/index.html`
 
 ## Tutorial
-Veja o arquivo `TUTORIAL.md`
+Veja o arquivo `TUTORIAL.md` para mais detalhes
 
 ## Contribuições
 Contribuições são sempre bem-vindas! Para contribuir, por favor, crie um fork do repositório, faça suas alterações e submeta um pull request.
