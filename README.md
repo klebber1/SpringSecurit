@@ -19,7 +19,7 @@ O projeto está organizado da seguinte maneira:
 
 ## Documentação
 Para acessar a documentaçaõ:
-executar o arquivo `index.hltml` o diretório do arquivo index.html é `target/site/apidocs/index.html`
+executar o arquivo `index.hltml`, o diretório do arquivo index.html é `target/site/apidocs/index.html`
 
 ## Tutorial
 Veja o arquivo `TUTORIAL.md` para mais detalhes
